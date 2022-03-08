@@ -16,7 +16,6 @@ During the game, players connect different cities to complete some destination t
 8 carriages - 21 points
  
 
-(left - the number of markers, right - the score). A full version of the rules can be found here (Links to an external site.).
 
 Our goal is to create a system to count these scores automatically.
 
